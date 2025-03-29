@@ -4,6 +4,14 @@
   width: 100%;
   max-width: 1200px;
 }
+ /* GithubCopilot suggested code  */
+p { 
+  font-family: 'Arial', sans-serif; /* Replace 'Arial' with the chart's font if known */
+  font-size: 12px; /* Adjust size to match the chart's text */
+  line-height: 1.5;
+  color: #333; /* Use a color that complements the chart */
+  margin: 10px 0;
+} 
 /* rect {
   fill: orange;
 } */
